@@ -1,0 +1,23 @@
+{
+    "name": "miapenso/news",
+    "description": "新闻功能",
+    "type": "library",
+    "keywords": ["laravel-admin", "extension", "news"],
+    "homepage": "https://github.com/miapenso/news",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "miapenso",
+            "email": "someday158@qq.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.1",
+        "encore/laravel-admin": "~1.6"
+    },
+    "autoload": {
+        "psr-4": {
+            "Miapenso\\News\\": "src/"
+        }
+    }
+}
