@@ -1,2 +1,2 @@
-# cuddly-octo-sniffle
+# composer require miapenso/news
 新闻
