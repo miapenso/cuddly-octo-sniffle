@@ -19,5 +19,13 @@
         "psr-4": {
             "Miapenso\\News\\": "src/"
         }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Miapenso\\News\\NewsServiceProvider"
+            ]
+
+        }
     }
 }
